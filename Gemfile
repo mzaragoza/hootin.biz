@@ -41,7 +41,7 @@ gem "activeuuid"
 gem 'active_model_serializers'
 gem 'browser'
 gem 'carrierwave'
-gem 'rmagick', :require => 'RMagick'
+gem 'rmagick', :require => 'rmagick'
 gem 'decent_exposure', :git => 'git://github.com/voxdolo/decent_exposure.git'
 gem 'fabrication'
 gem 'ffaker'
