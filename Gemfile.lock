@@ -346,7 +346,7 @@ GEM
       countries (~> 0.11, >= 0.11.5)
       phony (~> 2.12)
     populator (1.0.0)
-    rack (1.6.4)
+    rack (1.6.12)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
